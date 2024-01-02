@@ -1,0 +1,78 @@
+.container h2 {
+  text-align: center;
+  color: #000;
+  font-size: 64px;
+  font-weight: 700;
+  padding-top: 83px;
+  padding-bottom: 61px;
+}
+
+.selection_row img {
+  width: 399px;
+  height: 274px;
+}
+
+.selection_row {
+  width: 100%;
+  height: auto;
+}
+.border_box_2,
+.border_box_1_3 {
+  margin-left: 170px;
+  width: 1140px;
+  height: 495px;
+  border-radius: 17px;
+  background: #f6f6f6;
+  padding: 25px;
+  margin: 25px 0 0 170px;
+  display: flex;
+}
+.box_2 {
+  width: 400px;
+  height: 450px;
+  border-radius: 17px;
+  background: #fff;
+}
+.box_1_3 {
+  padding: 20px;
+  width: 400px;
+  height: 450px;
+  border-radius: 17px;
+  background: #fff;
+}
+
+.box_1_3 p {
+  padding-top: 18px;
+  color: #000;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.box_1_3 h3 {
+  color: #000;
+  text-align: left;
+  font-size: 24px;
+  font-weight: 400;
+  padding-top: 14px;
+  width: 125px;
+  position: relative;
+  top: 55px;
+}
+
+.box_1_3 Button {
+  margin-left: 190px;
+}
+
+.text_box p {
+  width: 504px;
+  height: 100px;
+  flex-shrink: 0;
+  border-left: 8px solid #10afab;
+  border-radius: 3px;
+  color: #000;
+  font-size: 20px;
+  font-weight: 400;
+  padding: 34px; /* Уберите одно из этих свойств */
+  margin: 160px 0 0 100px;
+  line-height: 1.5;
+}

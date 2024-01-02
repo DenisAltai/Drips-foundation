@@ -1,0 +1,22 @@
+.language-selector-container {
+  text-align: center;
+}
+
+.language-selector {
+  width: 71px;
+  height: 63px;
+  padding: 14px;
+  font-size: 14px;
+  border: 1px solid #ebebeb;
+  border-radius: 7px;
+}
+
+.language-selector:hover {
+  background-color: #ebebeb;
+}
+
+.language-selector:focus {
+  outline: none;
+  border-radius: 7px;
+  background: #ebebeb;
+}

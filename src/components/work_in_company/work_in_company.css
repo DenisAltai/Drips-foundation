@@ -1,0 +1,56 @@
+.work_in_company {
+  width: 100%;
+  height: auto;
+  padding-bottom: 90px;
+}
+
+.text_work p {
+  text-align: center;
+  color: #000;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 200;
+  padding-bottom: 20px;
+}
+.ul_li_components {
+  margin-left: 70px;
+}
+
+.ul_li_components li {
+  margin-left: 75px;
+}
+
+.ul_li_components ul {
+  display: flex;
+  padding-bottom: 60px;
+  padding-top: 30px;
+}
+
+.ul_li_components h4 {
+  text-align: center;
+
+  color: #000;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.ul_li_components p {
+  text-align: center;
+
+  color: #000;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  margin-top: 8px;
+  width: 250px;
+  line-height: 120%; /* 0px */
+}
+
+.ul_li_components img {
+  border-radius: 16px;
+  background: #f6f6f6;
+  padding: 15px;
+  margin-left: 80px;
+}

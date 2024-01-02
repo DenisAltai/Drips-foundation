@@ -1,0 +1,96 @@
+/* styles.css */
+
+form {
+  max-width: 100%;
+  margin: auto;
+}
+
+.table {
+  border-radius: 17px;
+  background-image: url(../../img/table1.png);
+  width: 1140px;
+  height: auto;
+  flex-shrink: 0;
+  margin-left: 200px;
+}
+
+.table MyButton {
+}
+
+.table h3 {
+  color: #000;
+  text-align: center;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  padding-top: 55px;
+}
+
+div {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  margin-bottom: 15px;
+}
+
+input,
+textarea {
+  border: 0px solid #fff;
+  width: 306px;
+  height: 45px;
+  flex-shrink: 0;
+  border-radius: 13px;
+  background: #fff;
+  box-shadow: 0px 9px 14px 0px rgba(0, 0, 0, 0.1);
+}
+
+.your_message textarea {
+  width: 1005px;
+  height: 186px;
+  flex-shrink: 0;
+}
+
+.name {
+  width: 310px;
+  position: relative;
+  top: 48px;
+  left: 50px;
+}
+
+.your_phone {
+  width: 310px;
+  position: relative;
+  top: 80px;
+  left: 50px;
+}
+
+.your_phone {
+  width: 310px;
+  position: relative;
+  top: -16px;
+  left: 400px;
+}
+
+.your_mail {
+  width: 310px;
+  position: relative;
+  top: -80px;
+  left: 750px;
+}
+
+.your_message {
+  width: 1010px;
+  position: relative;
+  top: -44px;
+  left: 50px;
+}
+
+.my_button {
+  width: 300px;
+  position: relative;
+  top: -24px;
+  left: 450px;
+}

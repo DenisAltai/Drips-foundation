@@ -1,0 +1,97 @@
+.adres {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  background-image: url("../../img/adres.svg");
+}
+
+.img_logo {
+  width: 400px;
+  height: 400px;
+  flex-shrink: 0;
+  position: absolute;
+  margin: 275px 0 0 45px;
+}
+
+.info_telephon {
+  margin-top: 70px;
+  margin-left: 160px;
+}
+
+.info_telephon h3 {
+  color: #fff;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 20px;
+}
+
+.info_telephon ul,
+li {
+  color: #fff;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 221.5%; /* 53.16px */
+}
+
+.info_telephon img {
+  margin-right: 20px;
+}
+
+.info_map {
+  margin-left: 90px;
+  margin-top: 80px;
+}
+
+.bank_info {
+  margin-left: 80px;
+  margin-top: 70px;
+  width: 459px;
+  height: 324px;
+  flex-shrink: 0;
+  border-radius: 15px;
+  background: #fff;
+  box-shadow: 0px 16px 28px 0px rgba(0, 0, 0, 0.14);
+}
+
+.bank_info h3 {
+  color: #2e2e2e;
+  font-size: 28px;
+  font-weight: 600;
+  padding: 20px;
+}
+
+.bank_info ul {
+  padding: 15px;
+}
+
+.bank_info li {
+  padding: 1px;
+  border-radius: 15px;
+  background: #f1f1f1;
+  margin-bottom: 25px;
+}
+
+.bank_info p {
+  padding: 1px 145px 1px 15px;
+  color: rgba(0, 0, 0, 0.46);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.bank_info span {
+  padding: 5px 145px 5px 15px;
+  color: #000;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.bank_info img {
+  padding: 0 0 5px 15px;
+}

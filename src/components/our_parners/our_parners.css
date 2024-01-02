@@ -1,0 +1,14 @@
+.our_parners_row {
+  width: 100%;
+  height: auto;
+  background-color: #f6f6f6;
+}
+
+.brand_1 ul {
+  display: flex;
+  padding-bottom: 20px;
+}
+
+.brand_1 li {
+  margin-left: 118px;
+}
