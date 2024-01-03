@@ -18,7 +18,7 @@ function Bank() {
             </li>
           </ul>
         </div>
-        <div className="bank_info">
+        <div className="bank_in">
           <h2>Bank details:</h2>
           <ul>
             <li className="bank_str1">

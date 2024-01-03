@@ -16,6 +16,10 @@ a {
   height: 122px;
 }
 
+.header__row a {
+  color: black;
+}
+
 .header__logo {
   width: 210px;
   height: 112px;

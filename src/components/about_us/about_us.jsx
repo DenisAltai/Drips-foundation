@@ -27,7 +27,7 @@ function AboutUs() {
               <p>Jach Dye CEO</p>
               <span>“COmpany name”</span>
             </div>
-            <div className="img_logo">
+            <div className="img_lo">
               <div className="img_1">
                 <img src={logo} alt="logo" />
               </div>

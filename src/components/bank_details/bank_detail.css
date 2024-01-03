@@ -30,7 +30,7 @@
   padding-bottom: 20px;
 }
 
-.bank_info {
+.bank_in {
   margin-left: 300px;
   margin-top: 170px;
   width: 459px;
@@ -41,24 +41,24 @@
   box-shadow: 0px 16px 28px 0px rgba(0, 0, 0, 0.14);
 }
 
-.bank_info h2 {
+.bank_in h2 {
   color: #2e2e2e;
   font-size: 28px;
   font-weight: 600;
   padding: 28px;
 }
 
-.bank_info ul {
+.bank_in ul {
   padding: 15px;
 }
 
-.bank_info li {
+.bank_in li {
   border-radius: 15px;
   background: #f1f1f1;
   margin-bottom: 25px;
 }
 
-.bank_info p {
+.bank_in p {
   padding: 0 145px 0 15px;
   color: rgba(0, 0, 0, 0.46);
   font-size: 14px;
@@ -67,7 +67,7 @@
   line-height: normal;
 }
 
-.bank_info span {
+.bank_in span {
   padding: 0 145px 0 15px;
   color: #000;
   font-size: 18px;
@@ -76,6 +76,6 @@
   line-height: normal;
 }
 
-.bank_info img {
+.bank_in img {
   padding: 0 0 5px 15px;
 }
